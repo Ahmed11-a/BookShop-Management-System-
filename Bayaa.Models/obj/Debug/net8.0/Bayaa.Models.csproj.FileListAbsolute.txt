@@ -1,0 +1,12 @@
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\bin\Debug\net8.0\Bayaa.Models.deps.json
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\bin\Debug\net8.0\Bayaa.Models.dll
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\bin\Debug\net8.0\Bayaa.Models.pdb
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\obj\Debug\net8.0\Bayaa.Models.GeneratedMSBuildEditorConfig.editorconfig
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\obj\Debug\net8.0\Bayaa.Models.AssemblyInfoInputs.cache
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\obj\Debug\net8.0\Bayaa.Models.AssemblyInfo.cs
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\obj\Debug\net8.0\Bayaa.Models.csproj.CoreCompileInputs.cache
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\obj\Debug\net8.0\Bayaa.Models.dll
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\obj\Debug\net8.0\refint\Bayaa.Models.dll
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\obj\Debug\net8.0\Bayaa.Models.pdb
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\obj\Debug\net8.0\ref\Bayaa.Models.dll
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Models\obj\Debug\net8.0\Bayaa.Models.csproj.AssemblyReference.cache

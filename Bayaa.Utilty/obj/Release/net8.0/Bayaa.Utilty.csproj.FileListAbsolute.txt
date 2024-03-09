@@ -1,0 +1,12 @@
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\bin\Release\net8.0\Bayaa.Utilty.deps.json
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\bin\Release\net8.0\Bayaa.Utilty.dll
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\bin\Release\net8.0\Bayaa.Utilty.pdb
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\obj\Release\net8.0\Bayaa.Utilty.csproj.AssemblyReference.cache
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\obj\Release\net8.0\Bayaa.Utilty.GeneratedMSBuildEditorConfig.editorconfig
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\obj\Release\net8.0\Bayaa.Utilty.AssemblyInfoInputs.cache
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\obj\Release\net8.0\Bayaa.Utilty.AssemblyInfo.cs
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\obj\Release\net8.0\Bayaa.Utilty.csproj.CoreCompileInputs.cache
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\obj\Release\net8.0\Bayaa.Utilty.dll
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\obj\Release\net8.0\refint\Bayaa.Utilty.dll
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\obj\Release\net8.0\Bayaa.Utilty.pdb
+I:\ProjectAsp\NewProject1\Bayaa\Bayaa.Utilty\obj\Release\net8.0\ref\Bayaa.Utilty.dll
